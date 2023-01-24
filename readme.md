@@ -34,7 +34,7 @@ This repo organizes:
 - Meldoica: Hohner Sutdent32
 - Various small percussion instruments
 
-## Hardware Effect Devices
+### Hardware Effect Devices
 - Vocal: Boss VE-500
 - Horsekick
 - Various Guitar Effects (Overdirve, Chorus, Octaviator, Delay, Reverb), sometimes uesed for other purposes
@@ -50,7 +50,8 @@ This repo organizes:
 - Apple Voice Memos (very important if you have ideas in the car)
 
 ## Wireing in hard / software
-Add schema here
+
+Todo: Add schema here
 
 ## Recording settings
 
@@ -92,6 +93,37 @@ Since recording is the only process, that cannot be redone and the most crutial 
 | LCT440 pure | 20 | 6 | [-24, -9] | -7.3 | Clear noises at start of sound and wihle whispering. String p and wind noises after production at whisptering. **Choose this setting, if high "agressive" frequencies needed**
 | LCT440 with manufacturer filter | 14 | 6 | [-20, -9] | -7 | Better signal for whisper and soft singing smaller range close to -18. However, compressed sound without filter sounds clearer for soft voice. **Best for spoken recordings** too dull for singing.
 | LCT440 with pop filter | 14 | 7 | [-24, -10] | -6.1 | Needs mor gain on preamp. Good qulaity for whispering, a bit more dull, or better less agressive when singing. Sonds like the middle between the two other LCT440 options. **Best for an over all smooth** 
-| LCT440 with VE-500 Pitch correction ||||| Same settings above, but with VE-500 in the loop (input signal from Audient output4). Pitch correction creats at some point "autotune" like distortion which cannot be fixted. If you are not a perfect singer, I suggest not to used hardware pitch correction before recording.
+| LCT440 with VE-500 Pitch correction ||||| Same settings above, but with VE-500 in the loop (input signal from Audient output4). Pitch correction creats at some point "autotune" like distortion which cannot be fixted. If you are not a perfect singer, I suggest not to used hardware pitch correction before recording. It proved to be a very good tool for the live setting, particularly when the guitar is hooked to it (see below section "Live settings")
 | PL84 pure | 4 | 9 | [-25. -9] | -4.1 | PL84 has some dull singig voice compared to the LCT440 and needs a lot of preamping But it seems more tolerant for loud singing. Not so well suited for soft singing, but an option for the rock voice. **Only for life singing an option**
 | PL84 with pop filter | 5 | 9 | [-30, -10 ]| -7.1|  Less wind noise with the popfilter, definitifely the better option for recording. Singing still somewhat dull, big range. Soft singing reamis week after production (needs extra compresseion and dynamic gain). **Opt for this config for a loud rock voice**
+
+## Virtual Instruments
+
+### Finding the Rights Sounds
+Workflow:
+1. Decided for LogicPro Sound or Native Intruments
+2. Browse by style or instrument (don't forget to favour interesting sounds, that do not fit to the current project)
+3. Find the right preset
+4. Adjust the preset
+5. If the new preset should be reused. Save as User Preset.
+
+Use Kontakt 7 for best browsing in individual instruments and samples and Presets that are not stand alone synthesiziers.
+I use the favourit function (*), so I 'm loosing to much time with browsing and forgetrting. Komplete Kontrol would allow to browse through all presets, but it's less clearly arranged and it does not open the standalone applicaiton to play with settings. Komplete Kontrol becomes interesting when you want to test combinations of intruments and effects. But usually I would to this in my DAW.
+
+### Prioritylist for Deep Dive into Virutal Instruments
+
+1. Find the right synth to create my own sounds
+2. Learn more about vocoders
+3. Learn more about drum machines
+4. Learn more about samplers
+
+### Reaktor Mdoular Synth
+
+
+
+## Live settings
+
+### Additional Infrastructure
+* Roland RC-300 Loopsatation
+* Beringer X1204 Mixer (analog)
+* Apple Main Stage
