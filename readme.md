@@ -60,7 +60,7 @@ Todo: Add schema here
 
 ## Production Workflow
 
-This is my simple checklist for my production workflow including songwriting. I'm an amateur "I hide in the studio and do it all on my own" guy, That's why I include the songwriting/composition into my workflow. Quite often I will jump back from the arrangement to the songwriting, if something does not work or if a "cool" verse turns out to be awful once listening to it after recording. So, what seems like a sequential workflow is more like a checklist where you can jump back and forth.
+This is my simple checklist for my production workflow including songwriting. I'm an amateur "I hide in the studio and do it all on my own" guy, That's why I include the songwriting/composition into my workflow. Quite often I will jump back from the production phase to the songwriting phase, if something does not work or if a "cool" verse turns out to be awful once listening to it after recording. Thus, what seems like a sequential workflow is more like a checklist where you can jump back and forth.
 
 ### Phase 1: Prepare a song (songwriting / composing)
 
@@ -87,6 +87,26 @@ At the end of these steps I usually have a clear concept of the song:
 In some cases I also have a clear idea of the instruments to be used during production. But I try not to restrict myself, playing with different sounds during production is a big part of the fun, I thing. And it's normal that I go into a project with a guitar solo in mind and later on find out it's going to be a melodica, an organ, or an 80ties synth.
 
 ### Phase 2: Production
+These steps are inspired by [1]
+
+1. Prepare the project in the DAW
+2. Setting the rhythm (drums)
+   Repeat 3, 4, and 5 for each track (analog or digital instruments):
+3. Recording
+4. Editing
+5. Mixing
+6. Arranging 
+    * overall mixing and automation
+
+Here are some further thoughts about these steps:
+
+1. **Prepare the project in the DAW**: *ToDo: Explain and give the link to the templates*
+   
+2. **Setting the rhythm**: I'm not a drummer, so im my case the drums come mostly from an electronic/sampled source. I learnt the hard way that you can fix many things on a later production stage, but not rhythm and speed. That's why I first choose the beat section, even if I record a cajon or percussion myself later on. So, at least for music in my genres, this is the first final decision I do in the production process.
+   
+3. **Recording**: I play several instruments, but all of them at a very average level. So in the first place I try to set my arrangements in a level that does not demand more than I can handle and still sounds good. Still recoding - in my case - remains a time consuming process. In very project I learn more about where to put the mics, how to handle analog gear, and at what level the preamp should be. To collect my experience and continuously improve I started this project. Test and my current settings to start with can be found [below](#recording-settings). Also, because I'm not a perfect musician, I will always take enough takes to later have good options for editing. As a rule of thumbs.
+
+### Phase 4: Mastering
 
 ### Phase 3: Release
 
@@ -164,3 +184,7 @@ I use the favorite function (*), so I 'm loosing to much time with browsing and 
 * Roland RC-300 Loop station
 * Beringer X1204 Mixer (analog)
 * Apple Main Stage
+
+## References
+
+[1] Tommy Swindali, "Music Production 2022+ Edition", Fortune Publishing, 2022
