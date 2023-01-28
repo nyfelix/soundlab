@@ -94,9 +94,16 @@ These steps are inspired by [1]
    Repeat 3, 4, and 5 for each track (analog or digital instruments):
 3. Recording
 4. Editing
+  * track selection / cutting
+  * gain control
+  * pitch editing
+  * rhythm editing
+  * removing quite sections
 5. Mixing
 6. Arranging 
-    * overall mixing and automation
+  * panning (orchestra layout)
+  * reverb (distance)
+  * overall mixing and automation
 
 Here are some further thoughts about these steps:
 
