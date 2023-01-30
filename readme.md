@@ -3,14 +3,22 @@
 This ist the root of SoundLab. It's the documentation of hardware and software, configuration, presets and experience of my home recording studio. Currently, the full setup is based on commercial or open source software. Maybe in future my own plugins might go here, too.
 
 This repo organizes:
-- My personal logbook, workflow and experience for song writing and production (this file)
+- Documentaiton of the my personal workflow and experience for song writing and production 
 - Templates for LogicPro X
 - Channel strip presets
 - Recording settings (and according experiments)
 
 > :warning: **This is work in progress, content is not complete**
 
+This file documents the cuerrent state of my studio setup and production workflow.
+See the Produciton Log for current activites
 
+## Latest Activites
+
+> This section will be continously changing and point to what I0m currently working on
+
+After listening to the first 3 episodes of Brian Funk's () production podcast I got the ispiration to set myselg a challange to write "bad music" and still finish the produciton workflow.
+Here's the challange: Pick a genere and write a 30 second jam track every week.
 
 ## Infrastructure
 
