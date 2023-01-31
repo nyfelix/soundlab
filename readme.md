@@ -103,6 +103,7 @@ These steps are inspired by [1]
 3. Recording
 4. Editing
   * track selection / cutting
+  * Strip silence sections (logic: ctrl-x)
   * gain control
   * pitch editing
   * rhythm editing
