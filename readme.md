@@ -38,7 +38,7 @@ This is a list of hardware and software I use in my home studio.
 ### Hardware Instrumets
 - Piano: Roland DP990F
 - Acusitc steel guitar: Martin Nazareth PA
-- Acustic calssic concert guitar: Handcrafted
+- Acoustic calssic concert guitar: Handcrafted
 - Electric guitar: Fender Stratocaster US, palisander neck
 - Guitar Amp: Harper SilvertubePlus
 - Electric bass: Hofner
