@@ -3,22 +3,22 @@
 This ist the root of SoundLab. It's the documentation of hardware and software, configuration, presets and experience of my home recording studio. Currently, the full setup is based on commercial or open source software. Maybe in future my own plugins might go here, too.
 
 This repo organizes:
-- Documentaiton of the my personal workflow and experience for song writing and production 
+- Documentation of the my personal workflow and experience for song writing and production 
 - Templates for LogicPro X
 - Channel strip presets
 - Recording settings (and according experiments)
 
 > :warning: **This is work in progress, content is not complete**
 
-This file documents the cuerrent state of my studio setup and production workflow.
-See the Produciton Log for current activites
+This file documents the current state of my studio setup and production workflow.
+See the "Production Log" for current activities
 
 ## Latest Activites
 
-> This section will be continously changing and point to what I0m currently working on
+> This section will be continuously changing and point to what I'm currently working on:
 
-After listening to the first 3 episodes of Brian Funk's () production podcast I got the ispiration to set myselg a challange to write "bad music" and still finish the produciton workflow.
-Here's the challange: Pick a genere and write a 30 second jam track every week.
+After listening to the first 3 episodes of Brian Funk's () production podcast I got the inspiration to set myself a challenge to write "bad music" and still finish the production workflow.
+Here's the challenge: Pick a genre and write a 30 second jam track every week.
 
 ## Infrastructure
 
@@ -35,15 +35,15 @@ This is a list of hardware and software I use in my home studio.
 - Headphones: Sennheiser HD555
 - Various stands and cables
 
-### Hardware Instrumets
+### Hardware Instruments
 - Piano: Roland DP990F
-- Acusitc steel guitar: Martin Nazareth PA
-- Acoustic calssic concert guitar: Handcrafted
+- Acoustic steel guitar: Martin Nazareth PA
+- Acoustic classic concert guitar: Handcrafted
 - Electric guitar: Fender Stratocaster US, palisander neck
 - Guitar Amp: Harper SilvertubePlus
 - Electric bass: Hofner
 - Banjo: Deering "Goodtime"
-- Ukulelele: 
+- Ukulele: 
 - Meldoica: Hohner Sutdent32
 - Various small percussion instruments
 
@@ -133,26 +133,26 @@ Here are some further thoughts about these steps:
 #### Concept
 
 Situation
-- Record a a level, where heavy postprocessing in the DAW is possible, without having strange frquencies and clipping effects.
+- Record a a level, where heavy postprocessing in the DAW is possible, without having strange frequencies and clipping effects.
 - For the singer the monitor needs to be at louder level then recording
 
 Solution
-- Use a channel just for recording and add enoug gain to hear the voice on the monitor.
-- To control the monitor thorugh the DAW controler for all recordings, I route the signal into a montor bus and create a bus channel.
-- After recording multiple takes I select the best sections directely from the raw recording channel and bounce it to the editing channel.
-- The edditing channel then might have minimal specific processing for better eddting (eg eq and comporessen)
-- The eddited track will then be copied to the final produciton channel, so I can always compare the result with the minimal processed signal. 
+- Use a channel just for recording and add enough gain to hear the voice on the monitor.
+- To control the monitor thorough the DAW controller for all recordings, I route the signal into a monitor bus and create a bus channel.
+- After recording multiple takes I select the best sections directly from the raw recording channel and bounce it to the editing channel.
+- The editing channel then might have minimal specific processing for better editing (e.g. eq and compression)
+- The eddied track will then be copied to the final production channel, so I can always compare the result with the minimal processed signal. 
 
 #### Tests for recording
 
-Since recording is the only process, that cannot be redone and the most crutial for good quality, I want to do a number of experiments to see at how the different mics and hardware settings affect the recorindg and how well the takes can be processsed in the DAW.
+Since recording is the only process, that cannot be redone and the most crucial for good quality, I want to do a number of experiments to see at how the different mics and hardware settings affect the recording and how well the takes can be processed in the DAW.
 
 - Verify optimal input level of preamp (gain for monitor)
   - 24bit resolution
   - Average of -28db
   - Peak at -10db
   
-- Hardware settings. Allways with same audio interface, preamp set as suggested above (from literature):
+- Hardware settings. Always with same audio interface, preamp set as suggested above (from literature):
   - PL84 pure
   - PL84 with pop filter
   - LCT440 pure
@@ -163,12 +163,12 @@ Since recording is the only process, that cannot be redone and the most crutial 
 #### Results
 | Mic | Distance to Mic [cm] | Preamp Gain | Signal range [dB] | Peak [dB] | Comments
 | --- | -------------------- | ----------- | ----------------- | --------- | --------
-| LCT440 pure | 20 | 6 | [-24, -9] | -7.3 | Clear noises at start of sound and wihle whispering. String p and wind noises after production at whisptering. **Choose this setting, if high "agressive" frequencies needed**
+| LCT440 pure | 20 | 6 | [-24, -9] | -7.3 | Clear noises at start of sound and while whispering. String p and wind noises after production at whispering. **Choose this setting, if high "aggressive" frequencies needed**
 | LCT440 with manufacturer filter | 14 | 6 | [-20, -9] | -7 | Better signal for whisper and soft singing smaller range close to -18. However, compressed sound without filter sounds clearer for soft voice. **Best for spoken recordings** too dull for singing.
-| LCT440 with pop filter | 14 | 7 | [-24, -10] | -6.1 | Needs mor gain on preamp. Good qulaity for whispering, a bit more dull, or better less agressive when singing. Sonds like the middle between the two other LCT440 options. **Best for an over all smooth** 
-| LCT440 with VE-500 Pitch correction ||||| Same settings above, but with VE-500 in the loop (input signal from Audient output4). Pitch correction creats at some point "autotune" like distortion which cannot be fixted. If you are not a perfect singer, I suggest not to used hardware pitch correction before recording. It proved to be a very good tool for the live setting, particularly when the guitar is hooked to it (see below section "Live settings")
-| PL84 pure | 4 | 9 | [-25. -9] | -4.1 | PL84 has some dull singig voice compared to the LCT440 and needs a lot of preamping But it seems more tolerant for loud singing. Not so well suited for soft singing, but an option for the rock voice. **Only for life singing an option**
-| PL84 with pop filter | 5 | 9 | [-30, -10 ]| -7.1|  Less wind noise with the popfilter, definitifely the better option for recording. Singing still somewhat dull, big range. Soft singing reamis week after production (needs extra compresseion and dynamic gain). **Opt for this config for a loud rock voice**
+| LCT440 with pop filter | 14 | 7 | [-24, -10] | -6.1 | Needs mor gain on preamp. Good quality for whispering, a bit more dull, or better less aggressive when singing. Sounds like the middle between the two other LCT440 options. **Best for an over all smooth** 
+| LCT440 with VE-500 Pitch correction ||||| Same settings above, but with VE-500 in the loop (input signal from Audient output4). Pitch correction creates at some point "autotune" like distortion which cannot be fixed. If you are not a perfect singer, I suggest not to used hardware pitch correction before recording. It proved to be a very good tool for the live setting, particularly when the guitar is hooked to it (see below section "Live settings")
+| PL84 pure | 4 | 9 | [-25. -9] | -4.1 | PL84 has some dull singing voice compared to the LCT440 and needs a lot of preamping But it seems more tolerant for loud singing. Not so well suited for soft singing, but an option for the rock voice. **Only for life singing an option**
+| PL84 with pop filter | 5 | 9 | [-30, -10 ]| -7.1|  Less wind noise with the pop filter, definitively the better option for recording. Singing still somewhat dull, big range. Soft singing remains week after production (needs extra compression and dynamic gain). **Opt for this config for a loud rock voice**
 
 ## Virtual Instruments
 
