@@ -19,6 +19,13 @@ See the "Production Log" for current activities
 
 After listening to the first 3 episodes of Brian Funk's () production podcast I got the inspiration to set myself a challenge to write "bad music" and still finish the production workflow.
 Here's the challenge: Pick a genre and write a 30 second jam track every week.
+Here are the details: (ProjectGenereJam.md)
+
+Things to remember for this experiment:
+* Use a reference track
+* Update the workflow template after each project (protocol each step)
+* Be strict: 1. Record, 2. Edit, 3. Mix
+* Improve the "Monitoring Bus" concept during recording
 
 ## Infrastructure
 
@@ -66,6 +73,26 @@ This is a list of hardware and software I use in my home studio.
 
 Todo: Add schema here
 
+#### Working with Logic Pro and git
+
+As you might have realized, I work with git :-).
+I think this makes particularly sense for managing all presets and templates of my toolchain. Here are some reasons, why I do that:
+- I work most of the time on my desktop computer, but sometimes with my notebook. So I want to have the latest improvements to my toolchain always in sync.
+- Templates and presets will be reused a lot and over time and I want to update them with every learning I do. So proper versioning is a good idea. 
+- I'm quite confident that some improvements will be for the worse... so git allows my to jump back in history. 
+- I'm a nerd and I like to document in markdown, git was the most obvious choice for me to publish documentation, settings, instruments, etc in a simple way.
+
+Currently I don't manage projects on git, but I keep a reference to the commit number, so I can reproduce that initial state of all templates any time.
+
+On OSX it's quite straight foreword to manage user presets with git. All I had to do was replacing
+``` 
+~/Music/Audio Music Apps/Project Templates 
+~/Music/Audio Music Apps/Patches
+~/Music/Audio Music Apps/...
+```
+with an alias folder that points to the corresponding location in the repository.
+
+
 ## Production Workflow
 
 This is my simple checklist for my production workflow including songwriting. I'm an amateur "I hide in the studio and do it all on my own" guy, That's why I include the songwriting/composition into my workflow. Quite often I will jump back from the production phase to the songwriting phase, if something does not work or if a "cool" verse turns out to be awful once listening to it after recording. Thus, what seems like a sequential workflow is more like a checklist where you can jump back and forth.
@@ -102,14 +129,13 @@ These steps are inspired by [1]
    Repeat 3, 4, and 5 for each track (analog or digital instruments):
 3. Recording
 4. Editing
-  * track selection / cutting
-  * Strip silence sections (logic: ctrl-x)
+  * track selection / comping (select the best bits of each take to create a perfect take)
   * gain control
   * pitch editing
   * rhythm editing
-  * removing quite sections
-5. Mixing
-6. Arranging 
+  * strip silence sections (logic: ctrl-x)
+1. Mixing
+2. Arranging 
   * panning (orchestra layout)
   * reverb (distance)
   * overall mixing and automation
