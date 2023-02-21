@@ -84,6 +84,7 @@ The structure looks like this.
 
 1. I start with my template and add markers for the structure above to get a realistic overview of the timeline. I could just skip part of the verse and the transition to end up at 30 seconds, but it's a pity for that little song, so set my limit to max 60 seconds, everything below is a plus.
 1. The major layout tells me that I can make it in 56 seconds with intro and outro.
+1. Next I select a appropriate drumming pattern. I found one good option with one of Logic's "Virtual drummer". But the I decided to go even more simple with just some base drum and a closed hihat from NI's "Studio drummer". End of day 1.
 1. 
 
 
