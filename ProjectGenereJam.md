@@ -48,13 +48,13 @@ The mighty words you're singing when you steer your way
 Transition
     C                       Fmaj7
 You keep your record in the shelf
-    C                        D7
+    C                        D
 You keep your secret for yourself
 
 Chorus
 G                          A
 Darling sing a song for me please
-D                        G
+D                        G 
 I can't wait to hear you singing
 G                          A
 Darling sing a song for me please
@@ -82,9 +82,30 @@ The structure looks like this.
 
 ### 1. Production
 
-1. I start with my template and add markers for the structure above to get a realistic overview of the timeline. I could just skip part of the verse and the transition to end up at 30 seconds, but it's a pity for that little song, so set my limit to max 60 seconds, everything below is a plus.
-1. The major layout tells me that I can make it in 56 seconds with intro and outro.
-1. Next I select a appropriate drumming pattern. I found one good option with one of Logic's "Virtual drummer". But the I decided to go even more simple with just some base drum and a closed hihat from NI's "Studio drummer". End of day 1.
-1. 
+#### Day 1
+* Writing the song (see above)
+#### Day 2
+* I start with my template and add markers for the structure above to get a realistic overview of the timeline. I could just skip part of the verse and the transition to end up at 30 seconds, but it's a pity for that little song, so set my limit to max 60 seconds, everything below is a plus.
+* The major layout tells me that I can make it in 56 seconds with intro and outro.
+* Next I select a appropriate drumming pattern. I found one good option with one of Logic's "Virtual drummer". But the I decided to go even more simple with just some base drum and a closed hihat from NI's "Studio drummer". End of day 2.
 
+#### Day 3
+* Recording of guitar. 
+* I followed the guidance from "Modern Recording Techniques" and installed a close pickup with the LCT440 and a distant pickup at approx 1m with the PL84. I first tried distant miking with the SM57, but even with maximum preamp I got only a very week signal. Have to figure out, why.
+* Preamp for LCT440 was on 6/10, PL84 almost on maximum
+* I'am really happy with the approach of two pickups. While the distant pickup is rather thin and on its own not really usable, the close pickup also sounds very close, but also a bit bassy. Together they make a very natural sound. I guess I would have been happy with to close pickup on its own, but now that I have both, it sound a lot better. In fact I will record all my acoustic instruments like this in future.
+* Since it is only 56 seconds, there is no problem to play the instrument part as one track. I took 4 takes and then used the comping functionality to combine the very best parts. No rhythmic editing needed. I first comped the close pickup, then applied the same comping to the distant pickup.
+* After comping I hat to bounce the tracks in logic in order to be able to do gain adjustments (it would be possible with the "Gain" plugin). I had to add gain on both tracks. +4dB on the LCT440 to end at around -12dB, +7dB to peak at -18dB. I was not pushing the distant mik further becaus it's not necessary for the the overall sound.
+* As a conclusion I consider the open up the preamp for close recording a bit more next time.
+* Next I added heigh an low pass filters to both tracks. I want to free space in the bottom for the base drum to come through as clear as possible. In the hight end, there were some scratching noises from the guitar I do not want to have in the track. Finally there was a strange sound from damping the strings. It tool me a while to find the frequency at around 1920Hz to filter out.
+* For Compression I used the Locic native compressors, becaus I'm very familiar with them and I still like the warmth of the Vintage FET and Vintage Opto. I could achieve a gain reduction of about -3dB.
+
+
+#### Day 4
+Composing the banjo part. It's the first time I'm writing a song for banjo (in fact I touched a Banjo the first time a week after christmas, so I'm not very familiar with it). I was steeling some licks and patterns form the songs I've played so fare and adopted them to the harmony of this songs. I like it a lot, but it becomes clear, that I need to practice the banjo part before I can record it. It will tale a few days.
+ 
+  * Recording the Banjo with the same setup und preamp settings as before
+  * Gain levels were perfect at around -12dB
+  * Did some gain reduction with compressor to give more headroom
+  * Adjust volume so it does not compete to much with the guitar
 
