@@ -10,7 +10,7 @@ It's not to goal to create great music this time, it's about learning and finish
 
 ## Ideas
 
-* Bluegrass/Folk: Reference Song: Death South, In Hell I'll be in Good Company
+* Bluegrass/Fol    k: Reference Song: Death South, In Hell I'll be in Good Company
 * 80ties Pop Synth: 
 * Grunge: 
 * 80ties PopRock: INXS
