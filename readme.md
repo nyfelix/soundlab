@@ -169,6 +169,10 @@ Solution
 - The editing channel then might have minimal specific processing for better editing (e.g. eq and compression)
 - The eddied track will then be copied to the final production channel, so I can always compare the result with the minimal processed signal. 
 
+#### Preamp settings
+During record test I figured out, that the best preamp gain for the instruments/vocals in relation to the pickup location is very important. Here's a good video that explains how to find a good preamp setting: https://www.youtube.com/watch?v=PiCQ-2Umuc0
+Basically it's all about looking at the signal and listening for noise. And it's ok to use additional gain in the DAW.
+
 #### Tests for recording
 
 Since recording is the only process, that cannot be redone and the most crucial for good quality, I want to do a number of experiments to see at how the different mics and hardware settings affect the recording and how well the takes can be processed in the DAW.
