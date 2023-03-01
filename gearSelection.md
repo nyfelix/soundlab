@@ -15,8 +15,8 @@ So that's way I decided to sooner or later go for a hardware synth. Today I went
 So what should it be? Here are my requirements
 - Cost should be no more then 1500 Euros
 - I have a bit of a space problem. So it should preferably be small
-- I want to use the synth mainly to create cool baselines and pads. I'm currently no looking to much for leads
-- For pads a polysynth seems a better option (?) 
+- I want to use the synth mainly to create cool baselines and pads. I'm currently no looking to much for leads, but this could be interesting in future.
+- For pads a polyphonic synth seems a better option 
 - Less is more: Synth are an endless universe. But I want to produce music and love my strings and percussion instruments. So it should be simple enough to just switch it on and start creating something without years of experience. 
   
 Considerations:
@@ -25,7 +25,12 @@ Considerations:
 - Further reading confirm that the Minilogue is more universal and it's a polysynth where the Moog Grandmother is monophonic. They even seem to complement each other. So it could be a good idea to start with the cheaper Minilogue and see how it goes. If I happen to become a synth freak, I can still add the Grandmother at a later stage. 
 - If I really can use the keyboard of my Roland Piano, the small and rather cheap keys of the Minilogue are not a problem. I could maybe even go for the pure module... but then again I might be traveling and probably still like the keys.
 - HAving said that: here are my next tasks:
-    1. Make sure I can really use my Roland as Input devices
-    2. Look for MOdule alternatives to the Minilogue XD.
+    1. Make sure I can really use my Roland as Input devices. ** Result: Most synths I found, also the analog models, take Midi as input. Some also line (e.g. an electric guitar) an of course CV **
+    2. Look for MOdule alternatives to the Minilogue XD. E.g. Novation Peak
+   
+Here's the final list of candidates in my area of investment:
+- Polyphonic: Minilogue XD module, Novation Peak module
+- Monophonic: Mood Grandmother, Behringer Model D (module)
   
-Conclusion: Although it would be so cool to have a Moog at home, the cheaper Minilogue will meet my requirements better.
+Conclusion: Although it would be so cool to have a Moog at home, the cheaper Minilogue XD will meet my requirements better, and as a module even save some space.
+
