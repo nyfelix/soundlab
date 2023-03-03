@@ -109,3 +109,7 @@ Composing the banjo part. It's the first time I'm writing a song for banjo (in f
   * Did some gain reduction with compressor to give more headroom
   * Adjust volume so it does not compete to much with the guitar
 
+Ok after more practicing I have recorded all banjo elements an day 7.
+
+### Day 7
+Singing... 

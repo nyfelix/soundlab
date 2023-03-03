@@ -29,7 +29,11 @@ Considerations:
     2. Look for MOdule alternatives to the Minilogue XD. E.g. Novation Peak
    
 Here's the final list of candidates in my area of investment:
-- Polyphonic: Minilogue XD module, Novation Peak module
+- Polyphonic: Minilogue XD module, Novation Peak
+- 
+- 
+- 
+-  module
 - Monophonic: Mood Grandmother, Behringer Model D (module)
   
 Conclusion: Although it would be so cool to have a Moog at home, the cheaper Minilogue XD will meet my requirements better, and as a module even save some space.
