@@ -6,16 +6,14 @@ Theses are things I pick up along the way and store here, so I don't forget it.
 
 * Equipment for stereo miking
 * Microphone isolation shields
-* Reamp Box
+* Reamp Box 
 
 
 ## Things to test / open questions and answers
 
 * Experiment with mic placement (near, far, room, mono, stereo)
 * Further investigate if a ribbon mic would add value
-* Map Komplete Kontrol (Knob icon) to AKAI MPK Mini (probably already works fine, maybe needs Controller Editor) and release the settings here
 * Learn more about sampling with Komplete Kontrol
-* 
 
 ## Things to remember
 
